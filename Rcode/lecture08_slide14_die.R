@@ -11,4 +11,4 @@ for (n in c(1, 2, 6, 20)){
   lines(dty$x, dty$y, lwd = 2)
 }
 dev.off()
-
+#test 2
