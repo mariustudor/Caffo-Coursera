@@ -26,7 +26,7 @@ planes3d(0, 1, 0, -5, col = grey(.8))
 thetavals <- seq(0, 2 * pi, length = 100)
 zvals <- seq(0, 1 / pi, length = 100)
 temp <- expand.grid(thetavals, zvals)
-theta <- temp[],1]
+theta <- temp[,1]
 z <- temp[,2]
 x <- cos(theta)
 y <- sin(theta)
