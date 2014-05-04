@@ -13,5 +13,5 @@ lines(range(thetaVals[lVals > 1 / 8]), c(1/8,1/8))
 lines(range(thetaVals[lVals > 1 / 16]), c(1/16,1/16))
 #dev.off()
 
-
+#test 4
      
